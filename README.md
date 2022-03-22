@@ -6,3 +6,4 @@ We use 3 component here
 3. NodeMCU8266 number 2, provide Line Notification, you have to generate your own line Token and activate it once in a day, otherwice the Line will lock your token.
 4. the sensor we apply non contact liquid sensor for output water (single pump)
 5. If you have any question please feel free to contact me
+6. for the circuit diagram and photo please do not hesitate to contact me at ght83091@gmail.com
